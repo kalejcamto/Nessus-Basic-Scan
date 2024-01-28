@@ -94,56 +94,7 @@ After a scan is created, its report is displayed by opening the scan. If a scan 
 ![image](https://github.com/kalejcamto/Nessus-Basic-Scan/assets/101201140/0c3a3dd9-1f91-49be-b46c-7d20400ca2f6)
 
 
-
-
-## Open Vulnerability Assessment System 
-
-Start up OpenVAS
-Using OpenVAS
-Scanning Using OpenVAS
-Your Devices
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## I learned to run basic scanning and I am pretty sure, it is going to be more complex scans at a corporation but at least I try with what I have available to test and get hands on practice. 
 
 
 
